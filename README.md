@@ -8,10 +8,6 @@
 <a href = "https://www.linkedin.com/in/ezequiel-urbina-224370236/">
   <img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href = "mailto:curbina@fi.uba.ar">
-  <img src = "https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt = "Gmail"/>
-</a>
-  
 </div>
 
 
@@ -23,6 +19,7 @@ Ezequiel Urbina
   <p> Con Clojure hice un programa que dibuje imagenes fractales leyendo desde un archivo un sistema L </p>
   <p> En Python hice un programa llamado <a href = "https://github.com/ezeurbina/Recomendify"> Recomedify</a>, implementando un algoritmo de PageRank con grafos </p>
   <p> En GO implementé diferentes tipos de datos: Pila, Cola, Lista, ABB, Heap </p>
+  <p> Con HTML, CSS, JS y Flask hicimos un TP de una página web, además, usamos MySQL como base de datos </p>
 </div>
 
 
