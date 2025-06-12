@@ -10,7 +10,6 @@
 </a>
 </div>
 
-
 Ezequiel Urbina
 
 <div id = "info" align = "center">
@@ -22,11 +21,9 @@ Ezequiel Urbina
   <p> Con HTML, CSS, JS y Flask hicimos un TP de una página web, además, usamos MySQL como base de datos </p>
 </div>
 
-
 <p align = "center">
   <a href = "https://skillicons.dev">
     <img src = "https://skillicons.dev/icons?i=git,c,css,html,js,mysql,flask,clojure,go,java,idea,linux,py" />
-    
   </a>
 </p>
 
